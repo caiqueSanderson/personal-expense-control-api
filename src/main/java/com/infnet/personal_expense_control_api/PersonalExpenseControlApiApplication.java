@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PersonalExpenseControlApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PersonalExpenseControlApiApplication.class, args);
+        SpringApplication.run(PersonalExpenseControlApiApplication.class, args);
 	}
 
 }
