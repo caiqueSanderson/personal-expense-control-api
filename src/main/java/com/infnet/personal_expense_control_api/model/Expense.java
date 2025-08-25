@@ -14,5 +14,7 @@ public class Expense {
     private String description;
     private String category;
     private LocalDate date;
+
+    @Column(name = "amount")
     private Double value;
 }
